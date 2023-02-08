@@ -1,0 +1,39 @@
+body {
+    background-color: aquamarine;
+    margin: 0%;
+}#header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(46, 7, 77);
+    margin-top: 0%;
+}
+
+.heading {
+    font-size: 60px;
+    color: brown;
+text-align: center;
+padding: 1%;}
+
+    #banner{
+        width: 25%;
+        height:50ppx;
+        background-color: coral;
+        margin-top: 3px;
+        float: right;
+    }
+    #banner1{
+        padding: 10%;
+        margin: auto;
+    }
+   
+ .more{
+    margin-left: 70px;
+    color: blue;
+ }
+ .btn{
+    font-size: 20px;
+    background-color:blueviolet;
+    color: black;
+    padding:3px; 
+    border-radius:30px;
+ }
